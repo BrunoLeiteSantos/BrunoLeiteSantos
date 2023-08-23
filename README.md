@@ -22,6 +22,3 @@ Me chamo Bruno Leite
 ![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/e876941b-2e40-4516-85d1-5de6f5d1ec00)
 ![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/3837d139-006b-429f-bce1-0fe8e37e72f0)
 ![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/ac5d07e9-fa6b-4c5c-813a-3f6365944437)
-
-
-
