@@ -12,9 +12,8 @@ Me chamo Bruno Leite
 -Me pergunte sobre minhas experiencias e metas no mercado de trabalho
 
 -Me contate via email: brunoleite42808@gmail.com
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-          
+                    
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username+BrunoLeitesantos)](https://github.com/anuraghazra/github-readme-stats)
+
+![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/33a8ebfb-21bb-4641-bae3-4293c12a492f)
