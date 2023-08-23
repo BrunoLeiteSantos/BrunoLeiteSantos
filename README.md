@@ -1,8 +1,6 @@
 Ola mundo!
 Me chamo Bruno Leite
 
--Pronomes: Ele/Dele
-
 -Atual estudante de Programação Front End
 
 -Procuro Oportunidades de atuação na minha area de estudo
