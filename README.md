@@ -1,16 +1,14 @@
-### Hi there 👋
- 
-<!--
-**BrunoLeiteSantos/BrunoLeiteSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ola mundo!
+Me chamo Bruno Leite
 
-Here are some ideas to get you started:
+-Pronomes: Ele/Dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Atual estudante de Programação Front End
+
+-Procuro Oportunidades de atuação na minha area de estudo
+
+-Sempre buscando ajuda para melhorar minhas habilidades em programação
+
+-Me pergunte sobre minhas experiencias e metas no mercado de trabalho
+
+-Me contate via email: brunoleite42808@gmail.com
