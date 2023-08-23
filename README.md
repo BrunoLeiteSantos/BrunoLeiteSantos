@@ -19,4 +19,9 @@ Me chamo Bruno Leite
 ![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/8513319d-f697-49c8-b620-02fbe463af97)
 ![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/38a24182-dcdd-48e7-bf69-f2313ae2e0fe)
 ![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/65f4174a-b4d6-4603-b325-a6fcf594d6a0)
+![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/e876941b-2e40-4516-85d1-5de6f5d1ec00)
+![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/3837d139-006b-429f-bce1-0fe8e37e72f0)
+![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/ac5d07e9-fa6b-4c5c-813a-3f6365944437)
+
+
 
