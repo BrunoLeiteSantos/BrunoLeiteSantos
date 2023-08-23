@@ -1,11 +1,11 @@
 Ola mundo!
-Me chamo Bruno Leite
+Me chamo Bruno Leite dos Santos
 
 -Atual estudante de Programação Front End
 
 -Procuro Oportunidades de atuação na minha area de estudo
 
--Sempre buscando ajuda para melhorar minhas habilidades em programação
+-Sempre buscando aprimoramento em minhas habilidades em programação
 
 -Me pergunte sobre minhas experiencias e metas no mercado de trabalho
 
