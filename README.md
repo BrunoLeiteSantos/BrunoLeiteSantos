@@ -13,4 +13,4 @@ Me chamo Bruno Leite
 
 -Me contate via email: brunoleite42808@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLeiteSantos)](https://github.com/anuraghazra/github-readme-stats)
