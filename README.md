@@ -14,4 +14,7 @@ Me chamo Bruno Leite
 -Me contate via email: brunoleite42808@gmail.com
 
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username+BrunoLeitesantos)](https://github.com/anuraghazra/github-readme-stats)
