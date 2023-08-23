@@ -14,10 +14,9 @@ Me chamo Bruno Leite
 -Me contate via email: brunoleite42808@gmail.com
                     
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username+BrunoLeitesantos)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoLeitesantos)](https://github.com/anuraghazra/github-readme-stats)
 
-![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/33a8ebfb-21bb-4641-bae3-4293c12a492f)
-![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/cfca791d-3d67-4ba2-9737-bb97ba1984ae)
-![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/9eb0c0da-04a2-4c9b-8f23-29c918949edd)
-
+![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/8513319d-f697-49c8-b620-02fbe463af97)
+![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/38a24182-dcdd-48e7-bf69-f2313ae2e0fe)
+![image](https://github.com/BrunoLeiteSantos/BrunoLeiteSantos/assets/142614597/65f4174a-b4d6-4603-b325-a6fcf594d6a0)
 
